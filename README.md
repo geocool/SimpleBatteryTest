@@ -11,5 +11,6 @@ You also need to have installed acpi (sudo apt-get install acpi)
 **Run**   
 Run the script and choose at what battery percentage test will stop.   
 Smaller percentage mean more accurate result. Try to run Full Test(Stage 9)   
+To run the script type at terminal ./BatteryTest.rb   
    
 Tested On Ubuntu 13.04
